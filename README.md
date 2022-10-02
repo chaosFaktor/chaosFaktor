@@ -7,7 +7,7 @@ and don't have much insight into working in computer sciences.
 
 ---------------------------------------------------------------------------------------------------
 
-(If I ever make a discord-server, the invite-link will go here)
+(If I decide to make a discord-server, the invite-link will go here)
 
 
 
