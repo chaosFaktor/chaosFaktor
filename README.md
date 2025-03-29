@@ -1,7 +1,10 @@
-Welcome to the chaosFaktor GitHub !  
-This is a place for me to share some interesting, horrible, and ingenious Projects, and concepts.
-I am especially happy to receive constructive feedback, as I still visit high school
-and don't have much insight into working in computer sciences. 
+Constantly busy getting into chaos.
+
+Currently in high school and studying computer science at the [Fernuniversität Hagen](https://www.fernuni-hagen.de/).
+
+Software enthusiast, trying to learn everything about computer science. Currently intern at the [b-tu](https://www.b-tu.de/) ~and currently involved in the [Greengrass Project](https://www.greengrass-project.de/)~ 
+
+Will do anything with code.
 
 
 
